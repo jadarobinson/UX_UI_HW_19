@@ -232,6 +232,7 @@ img {
 
 .home__blob {
   fill: var(--first-color);
+  align-items:flex-end;
 }
 
 .home__blob-img {
@@ -528,3 +529,4 @@ img {
     width: 450px;
   }
 }
+
